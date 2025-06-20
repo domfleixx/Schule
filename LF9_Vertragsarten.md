@@ -1,11 +1,11 @@
 ### 1.2. Vertragsarten
 
 **Kaufvertrag**
-	- §§ 433 ff. BGB, §§ 373 ff. HGB
-	- Verpflichtung zur Veräußerung von Sachen oder Rechten gegen Geld
-	- Beispiele:
-		- Kauf von Lebensmitteln
-		- Erwerb einer Softwarelizenz
+<br> - §§ 433 ff. BGB, §§ 373 ff. HGB
+- Verpflichtung zur Veräußerung von Sachen oder Rechten gegen Geld
+- Beispiele:
+	- Kauf von Lebensmitteln
+	- Erwerb einer Softwarelizenz
 
 **Werkvertrag**
 	- §§ 631 ff. BGB

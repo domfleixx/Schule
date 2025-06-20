@@ -1,7 +1,7 @@
 ### 1.2. Vertragsarten
 
-**Kaufvertrag**
-<br> - §§ 433 ff. BGB, §§ 373 ff. HGB
+**Kaufvertrag** <br>
+- §§ 433 ff. BGB, §§ 373 ff. HGB
 - Verpflichtung zur Veräußerung von Sachen oder Rechten gegen Geld
 - Beispiele:
 	- Kauf von Lebensmitteln

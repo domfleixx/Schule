@@ -11,7 +11,7 @@
 - §§ 631 ff. BGB
 - Der Unternehmer verpflichtet sich, ein bestimmtes Arbeitsergebnis (das Werk) zu liefern, der Besteller verpflichtet sich, die vereinbarte Vergütung zu zahlen
 - Beispiele:
-	-Bauvertrag
+	- Bauvertrag
 	- Handwerkerleistung
 
 **Dienstvertrag** <br>
